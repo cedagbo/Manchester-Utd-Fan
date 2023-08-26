@@ -1,6 +1,6 @@
 # Man United Fan Website
 
-## Descrition
+## Description
 
 Man Utd Fan Website is a platform that comprises a set of news to keep the fans updated with the latest insights of the club.
 
@@ -15,7 +15,7 @@ Man Utd Fan Website is a platform that comprises a set of news to keep the fans 
     <li>Documentation</li>
     <li>License</li>
     <li>Deployment</li>
-    <li>Author</li>
+    <li>Credit</li>
 </ul>
 <br />
 
@@ -31,8 +31,8 @@ I should be able to go through the articles related to the fan website.
 </pre>
 
 ## Acceptance Criteria
-  <li>Semantic HTML elemets can be found throughout the source of code.</li>
-    <li>HTML elements follow a logitical structure independent of styling and positioning.</li>
+  <li>Semantic HTML elements can be found throughout the source of code.</li>
+    <li>HTML elements follow a logical structure independent of styling and positioning.</li>
     <li>Image and icon elements contain accessible <strong>alt</strong> attributes.</li>
     <li>Heading attributes fall in sequential order.</li>
     <li>Title elements contain a concise, descriptive title.</li>
@@ -53,15 +53,17 @@ The user does not need to install any software.
  The user does not need to install any software to use the website.
 </pre>
 
-## Doumentation
+## Documentation
 <li>https://www.w3schools.com/</li>
 <li>https://www.traversymedia.com/</li>
 <li>https://developer.mozilla.org/en-US/</li>
 <br />
 
+## License
+MIT License
 
-
-
+## Deployment
+<a>https://cedagbo.github.io/Manchester-Utd-Fan/</a>
 
 ## Credit
 Copyright (c) 2023 Chris-Eric Dagbo
