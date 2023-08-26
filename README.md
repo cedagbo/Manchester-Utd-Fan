@@ -64,4 +64,4 @@ The user does not need to install any software.
 
 
 ## Credit
-Copyright (c) 2023 Chris-Eric Monney
+Copyright (c) 2023 Chris-Eric Dagbo
